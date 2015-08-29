@@ -1,4 +1,5 @@
 import React from 'react';
+import Router, {Link} from 'react-router-component';
 import fishData from '../../../data/fish.json';
 
 export default class Fish extends React.Component {
@@ -381,7 +382,7 @@ export default class Fish extends React.Component {
 
       return (
         <div className={fishClass} key={i}>
-          <h3><a href={fishLink}>{fish.fishName}</a></h3>
+          <h3><Link href={fishLink}>{fish.fishName}</Link></h3>
           <p>Choice Type: {fish.choiceType}</p>
           <p>Notes: {fish.notes}</p>
         </div>
