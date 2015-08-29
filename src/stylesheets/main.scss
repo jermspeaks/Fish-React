@@ -1,5 +1,5 @@
 @import "Modules/cards";
-
+@import "var";
 h1 {
   color: #aaa;
 }
@@ -8,6 +8,16 @@ h1 {
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 2px;
+}
+
+.good-fish-card {
+  background-color: $green;
+}
+.okay-fish-card {
+  background-color: $yellow;
+}
+.bad-fish-card {
+  background-color: $red;
 }
 
 .flex-container {
