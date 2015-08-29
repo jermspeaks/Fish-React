@@ -374,14 +374,14 @@ export default class Fish extends React.Component {
       } else if (fish.choiceType === 'Avoid') {
         fishStyle.backgroundColor = '#FF5252';
       }
-      return ( 
-        <div className='card-level-1 fish-card' key={i} style={fishStyle}>
+      return (
+        <div className='card-level-1 fish-card flex-item' key={i} style={fishStyle}>
           <h3>{fish.fishName}</h3>
           <p>Choice Type: {fish.choiceType}</p>
           <p>Notes: {fish.notes}</p>
         </div>
       );
     });
-    return <div>{fishes}</div>
+    return <div className='flex-container'>{fishes}</div>
   }
 };

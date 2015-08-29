@@ -6,7 +6,7 @@ export default class App extends Component {
   render() {
     return (
       <Template>
-        <h3>Fishes</h3>
+        <h3>Sustainablility Report</h3>
         <Fish />
       </Template>
     );
