@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
+import Template from './app-template'
+import Fish from './fish/fish'
 
 export default class App extends Component {
   render() {
     return (
-      <div className="card-level-1">
-        <h1>Hello, world.</h1>
-        <h2>Areas</h2>
-      </div>
+      <Template>
+        <h3>Fishes</h3>
+        <Fish />
+      </Template>
     );
   }
 }

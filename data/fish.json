@@ -1,296 +1,355 @@
 [{
-    "Fish Name": "Arctic Char",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "farmed"
+    "fishName": "Arctic Char",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "farmed",
+    "id": 1
 }, {
-    "Fish Name": "Barramundi",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "US & Vietnam farmed"
+    "fishName": "Barramundi",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "US & Vietnam farmed",
+    "id": 2
 }, {
-    "Fish Name": "Bass: Striped",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "US hook and line, farmed"
+    "fishName": "Bass: Striped",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "US hook and line, farmed",
+    "id": 3
 }, {
-    "Fish Name": "Catfish",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "US"
+    "fishName": "Catfish",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "US",
+    "id": 4
 }, {
-    "Fish Name": "Clams, Mussels & Oysters",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": ""
+    "fishName": "Clams, Mussels & Oysters",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "",
+    "id": 5
 }, {
-    "Fish Name": "Cod: Pacific",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "AK"
+    "fishName": "Cod: Pacific",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "AK",
+    "id": 6
 }, {
-    "Fish Name": "Halibut: California",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "US hook and line"
+    "fishName": "Halibut: California",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "US hook and line",
+    "id": 7
 }, {
-    "Fish Name": "Lingcod:",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "Canada & US"
+    "fishName": "Lingcod:",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "Canada & US",
+    "id": 8
 }, {
-    "Fish Name": "Lobster: Spiny",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "Mexico"
+    "fishName": "Lobster: Spiny",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "Mexico",
+    "id": 9
 }, {
-    "Fish Name": "Prawn: Spot",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "AK"
+    "fishName": "Prawn: Spot",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "AK",
+    "id": 10
 }, {
-    "Fish Name": "Rockfish",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "CA, OR & WA"
+    "fishName": "Rockfish",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "CA, OR & WA",
+    "id": 11
 }, {
-    "Fish Name": "Sablefish/Black Cod",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "AK"
+    "fishName": "Sablefish/Black Cod",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "AK",
+    "id": 12
 }, {
-    "Fish Name": "Salmon",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "AK & New Zealand"
+    "fishName": "Salmon",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "AK & New Zealand",
+    "id": 13
 }, {
-    "Fish Name": "Sanddab",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "CA, OR & WA"
+    "fishName": "Sanddab",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "CA, OR & WA",
+    "id": 14
 }, {
-    "Fish Name": "Sardines: Pacific",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "Canada & US"
+    "fishName": "Sardines: Pacific",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "Canada & US",
+    "id": 15
 }, {
-    "Fish Name": "Scallops",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "farmed"
+    "fishName": "Scallops",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "farmed",
+    "id": 16
 }, {
-    "Fish Name": "Seaweed",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "farmed"
+    "fishName": "Seaweed",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "farmed",
+    "id": 17
 }, {
-    "Fish Name": "Shrimp",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "AK wild, US farmed"
+    "fishName": "Shrimp",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "AK wild, US farmed",
+    "id": 18
 }, {
-    "Fish Name": "Sole",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "AK, CA, OR & WA"
+    "fishName": "Sole",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "AK, CA, OR & WA",
+    "id": 19
 }, {
-    "Fish Name": "Tilapia",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "Ecuador & US"
+    "fishName": "Tilapia",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "Ecuador & US",
+    "id": 20
 }, {
-    "Fish Name": "Trout: Rainbow",
-    "Choice Type": "Best Choice",
-    "Farmed": "y",
-    "Notes": "US farmed"
+    "fishName": "Trout: Rainbow",
+    "choiceType": "Best Choice",
+    "farmed": "y",
+    "notes": "US farmed",
+    "id": 21
 }, {
-    "Fish Name": "Tuna: Albacore",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "Pacific troll, pole and line"
+    "fishName": "Tuna: Albacore",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "Pacific troll, pole and line",
+    "id": 22
 }, {
-    "Fish Name": "Tuna: Skipjack",
-    "Choice Type": "Best Choice",
-    "Farmed": "n",
-    "Notes": "Pacific troll,pole and line"
+    "fishName": "Tuna: Skipjack",
+    "choiceType": "Best Choice",
+    "farmed": "n",
+    "notes": "Pacific troll,pole and line",
+    "id": 23
 }, {
-    "Fish Name": "Branzino",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "y",
-    "Notes": "Mediterranean farmed"
+    "fishName": "Branzino",
+    "choiceType": "Good Alternatives",
+    "farmed": "y",
+    "notes": "Mediterranean farmed",
+    "id": 24
 }, {
-    "Fish Name": "Cod: Pacific",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "Canada & US trawl"
+    "fishName": "Cod: Pacific",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "Canada & US trawl",
+    "id": 25
 }, {
-    "Fish Name": "Crab: Blue & King",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "US"
+    "fishName": "Crab: Blue & King",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "US",
+    "id": 26
 }, {
-    "Fish Name": "Crab: Dungeness",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": ""
+    "fishName": "Crab: Dungeness",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "",
+    "id": 27
 }, {
-    "Fish Name": "Crab: Pacific Rock",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "CA & OR"
+    "fishName": "Crab: Pacific Rock",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "CA & OR",
+    "id": 28
 }, {
-    "Fish Name": "Halibut",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "US Pacific gillnet and trawl"
+    "fishName": "Halibut",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "US Pacific gillnet and trawl",
+    "id": 29
 }, {
-    "Fish Name": "Lobster",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "Bahamas & US"
+    "fishName": "Lobster",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "Bahamas & US",
+    "id": 30
 }, {
-    "Fish Name": "Mahi Mahi",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "Ecuador & US"
+    "fishName": "Mahi Mahi",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "Ecuador & US",
+    "id": 31
 }, {
-    "Fish Name": "Octopus",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "Portugal & Spain pot and trap, US"
+    "fishName": "Octopus",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "Portugal & Spain pot and trap, US",
+    "id": 32
 }, {
-    "Fish Name": "Salmon",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "Canada, CA, OR & WA wild"
+    "fishName": "Salmon",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "Canada, CA, OR & WA wild",
+    "id": 33
 }, {
-    "Fish Name": "Scallops",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "wild"
+    "fishName": "Scallops",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "wild",
+    "id": 34
 }, {
-    "Fish Name": "Shrimp",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "y",
-    "Notes": "Canada & US wild, Ecuador farmed"
+    "fishName": "Shrimp",
+    "choiceType": "Good Alternatives",
+    "farmed": "y",
+    "notes": "Canada & US wild, Ecuador farmed",
+    "id": 35
 }, {
-    "Fish Name": "Snapper",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "US"
+    "fishName": "Snapper",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "US",
+    "id": 36
 }, {
-    "Fish Name": "Sole",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "British Columbia"
+    "fishName": "Sole",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "British Columbia",
+    "id": 37
 }, {
-    "Fish Name": "Squid",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "Mexico & US"
+    "fishName": "Squid",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "Mexico & US",
+    "id": 38
 }, {
-    "Fish Name": "Swordfish",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "US"
+    "fishName": "Swordfish",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "US",
+    "id": 39
 }, {
-    "Fish Name": "Tilapia",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "China & Taiwan"
+    "fishName": "Tilapia",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "China & Taiwan",
+    "id": 40
 }, {
-    "Fish Name": "Tuna: Albacore",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "US longline"
+    "fishName": "Tuna: Albacore",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "US longline",
+    "id": 41
 }, {
-    "Fish Name": "Tuna: Skipjack",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "free school, imported troll, pole and line, and US longline"
+    "fishName": "Tuna: Skipjack",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "free school, imported troll, pole and line, and US longline",
+    "id": 42
 }, {
-    "Fish Name": "Tuna: Yellowfin",
-    "Choice Type": "Good Alternatives",
-    "Farmed": "n",
-    "Notes": "free school, imported troll, pole and line, and HI longline"
+    "fishName": "Tuna: Yellowfin",
+    "choiceType": "Good Alternatives",
+    "farmed": "n",
+    "notes": "free school, imported troll, pole and line, and HI longline",
+    "id": 43
 }, {
-    "Fish Name": "Basa/Pangasius/Swai",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": ""
+    "fishName": "Basa/Pangasius/Swai",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "",
+    "id": 44
 }, {
-    "Fish Name": "Cod: Pacific",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "Japan & Russia"
+    "fishName": "Cod: Pacific",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "Japan & Russia",
+    "id": 45
 }, {
-    "Fish Name": "Crab: Red King",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "Russia"
+    "fishName": "Crab: Red King",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "Russia",
+    "id": 46
 }, {
-    "Fish Name": "Lobster: Spiny",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "Belize, Brazil, Honduras & Nicaragua"
+    "fishName": "Lobster: Spiny",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "Belize, Brazil, Honduras & Nicaragua",
+    "id": 47
 }, {
-    "Fish Name": "Mahi Mahi",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "imported"
+    "fishName": "Mahi Mahi",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "imported",
+    "id": 48
 }, {
-    "Fish Name": "Orange Roughy",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": ""
+    "fishName": "Orange Roughy",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "",
+    "id": 49
 }, {
-    "Fish Name": "Salmon: Atlantic",
-    "Choice Type": "Avoid",
-    "Farmed": "y",
-    "Notes": "farmed"
+    "fishName": "Salmon: Atlantic",
+    "choiceType": "Avoid",
+    "farmed": "y",
+    "notes": "farmed",
+    "id": 50
 }, {
-    "Fish Name": "Sardines: Atlantic",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "Mediterranean"
+    "fishName": "Sardines: Atlantic",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "Mediterranean",
+    "id": 51
 }, {
-    "Fish Name": "Sharks",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": ""
+    "fishName": "Sharks",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "",
+    "id": 52
 }, {
-    "Fish Name": "Shrimp",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "imported"
+    "fishName": "Shrimp",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "imported",
+    "id": 53
 }, {
-    "Fish Name": "Squid",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "imported"
+    "fishName": "Squid",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "imported",
+    "id": 54
 }, {
-    "Fish Name": "Swordfish",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "imported"
+    "fishName": "Swordfish",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "imported",
+    "id": 55
 }, {
-    "Fish Name": "Tuna: Albacore",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "except US troll, pole and line, and longline"
+    "fishName": "Tuna: Albacore",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "except US troll, pole and line, and longline",
+    "id": 56
 }, {
-    "Fish Name": "Tuna: Bluefin",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": ""
+    "fishName": "Tuna: Bluefin",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "",
+    "id": 57
 }, {
-    "Fish Name": "Tuna: Skipjack",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "imported purse seine"
+    "fishName": "Tuna: Skipjack",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "imported purse seine",
+    "id": 58
 }, {
-    "Fish Name": "Tuna: Yellowfin",
-    "Choice Type": "Avoid",
-    "Farmed": "n",
-    "Notes": "except troll, pole and line, and HI longline"
+    "fishName": "Tuna: Yellowfin",
+    "choiceType": "Avoid",
+    "farmed": "n",
+    "notes": "except troll, pole and line, and HI longline",
+    "id": 59
 }]
