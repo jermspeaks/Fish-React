@@ -8,3 +8,9 @@ h1 {
   margin-top: 20px;
   margin-bottom: 20px;
 } 
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
