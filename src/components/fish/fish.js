@@ -365,7 +365,6 @@ export default class Fish extends React.Component {
   }
 
   render() {
-    console.log(this.state.fishes);
     var fishes = this.state.fishes.map( (fish, i) => {
       var fishLink = `/view/${fish.fishName}`;
 
