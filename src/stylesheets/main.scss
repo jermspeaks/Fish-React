@@ -1,0 +1,38 @@
+@import "Modules/cards";
+@import "var";
+h1 {
+  color: #aaa;
+}
+
+.fish-card {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 2px;
+}
+
+.good-fish-card {
+  background-color: $green;
+}
+.okay-fish-card {
+  background-color: $yellow;
+}
+.bad-fish-card {
+  background-color: $red;
+}
+
+.flex-container {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.flex-item {
+  padding: 20px;
+  width: 20vw;
+  height: 200px;
+}

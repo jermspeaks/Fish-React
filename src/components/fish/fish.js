@@ -366,22 +366,27 @@ export default class Fish extends React.Component {
   render() {
     console.log(this.state.fishes);
     var fishes = this.state.fishes.map( (fish, i) => {
-      var fishStyle = {};
+      var fishLink = `/view/${fish.fishName}`;
+
+      // Create Fish Class
+      var fishClass = '';
       if (fish.choiceType === 'Best Choice') {
-        fishStyle.backgroundColor = '#4CAF50';
+        fishClass += 'good-fish-card';
       } else if (fish.choiceType === 'Good Alternatives') {
-        fishStyle.backgroundColor = '#FFEB3B';
+        fishClass += 'okay-fish-card';
       } else if (fish.choiceType === 'Avoid') {
-        fishStyle.backgroundColor = '#FF5252';
+        fishClass += 'bad-fish-card';
       }
-      return ( 
-        <div className='card-level-1 fish-card' key={i} style={fishStyle}>
-          <h3>{fish.fishName}</h3>
+      fishClass += ' card-level-1 fish-card flex-item';
+
+      return (
+        <div className={fishClass} key={i}>
+          <h3><a href={fishLink}>{fish.fishName}</a></h3>
           <p>Choice Type: {fish.choiceType}</p>
           <p>Notes: {fish.notes}</p>
         </div>
       );
     });
-    return <div>{fishes}</div>
+    return <div className='flex-container'>{fishes}</div>
   }
 };
