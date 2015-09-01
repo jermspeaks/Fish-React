@@ -11,13 +11,13 @@ export default class Header extends Component {
               <div className="navbar-header">
                 <Link className="navbar-brand" href="/">Sustainable Fish</Link>
               </div>
-              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav navbar-right">
                   <li><Link className="navbar-brand" href="/about">About Us</Link></li>
                 </ul>
               </div>
             </div>
-          </nav>          
+          </nav>
        </div>
     );
   }

@@ -1,60 +1,60 @@
-Fish Name,Choice Type,Farmed,Notes
-Arctic Char,Best Choice,y,farmed
-Barramundi,Best Choice,y,US & Vietnam farmed
-Bass: Striped,Best Choice,y,"US hook and line, farmed"
-Catfish,Best Choice,n,US
-"Clams, Mussels & Oysters",Best Choice,n,
-Cod: Pacific,Best Choice,n,AK
-Halibut: California,Best Choice,n,US hook and line
-Lingcod:,Best Choice,n,Canada & US
-Lobster: Spiny,Best Choice,n,Mexico
-Prawn: Spot,Best Choice,n,AK
-Rockfish,Best Choice,n,"CA, OR & WA"
-Sablefish/Black Cod,Best Choice,n,AK
-Salmon,Best Choice,n,AK & New Zealand
-Sanddab,Best Choice,n,"CA, OR & WA"
-Sardines: Pacific,Best Choice,n,Canada & US
-Scallops,Best Choice,y,farmed
-Seaweed,Best Choice,y,farmed
-Shrimp,Best Choice,y,"AK wild, US farmed"
-Sole,Best Choice,n,"AK, CA, OR & WA"
-Tilapia,Best Choice,n,Ecuador & US
-Trout: Rainbow,Best Choice,y,US farmed
-Tuna: Albacore,Best Choice,n,"Pacific troll, pole and line"
-Tuna: Skipjack,Best Choice,n,"Pacific troll,pole and line"
-Branzino,Good Alternatives,y,Mediterranean farmed
-Cod: Pacific,Good Alternatives,n,Canada & US trawl
-Crab: Blue & King,Good Alternatives,n,US
-Crab: Dungeness,Good Alternatives,n,
-Crab: Pacific Rock,Good Alternatives,n,CA & OR
-Halibut,Good Alternatives,n,US Pacific gillnet and trawl
-Lobster,Good Alternatives,n,Bahamas & US
-Mahi Mahi,Good Alternatives,n,Ecuador & US
-Octopus,Good Alternatives,n,"Portugal & Spain pot and trap, US"
-Salmon,Good Alternatives,n,"Canada, CA, OR & WA wild"
-Scallops,Good Alternatives,n,wild
-Shrimp,Good Alternatives,y,"Canada & US wild, Ecuador farmed"
-Snapper,Good Alternatives,n,US
-Sole,Good Alternatives,n,British Columbia
-Squid,Good Alternatives,n,Mexico & US
-Swordfish,Good Alternatives,n,US
-Tilapia,Good Alternatives,n,China & Taiwan
-Tuna: Albacore,Good Alternatives,n,US longline
-Tuna: Skipjack,Good Alternatives,n,"free school, imported troll, pole and line, and US longline"
-Tuna: Yellowfin,Good Alternatives,n,"free school, imported troll, pole and line, and HI longline"
-Basa/Pangasius/Swai,Avoid,n,
-Cod: Pacific,Avoid,n,Japan & Russia
-Crab: Red King,Avoid,n,Russia
-Lobster: Spiny,Avoid,n,"Belize, Brazil, Honduras & Nicaragua"
-Mahi Mahi,Avoid,n,imported
-Orange Roughy,Avoid,n,
-Salmon: Atlantic,Avoid,y,farmed
-Sardines: Atlantic,Avoid,n,Mediterranean
-Sharks,Avoid,n,
-Shrimp,Avoid,n,imported
-Squid,Avoid,n,imported
-Swordfish,Avoid,n,imported
-Tuna: Albacore,Avoid,n,"except US troll, pole and line, and longline"
-Tuna: Bluefin,Avoid,n,
-Tuna: Skipjack,Avoid,n,imported purse seine
-Tuna: Yellowfin,Avoid,n,"except troll, pole and line, and HI longline"
+id,Fish Name,Choice Type,Farmed,Notes,Image
+1,Arctic Char,Best Choice,y,farmed,http://www.fishbase.org/images/species/Saalp_f0.jpg
+2,Barramundi,Best Choice,y,US & Vietnam farmed,http://www.fishbase.org/images/species/Lacal_u0.jpg
+3,Bass: Striped,Best Choice,y,"US hook and line, farmed",
+4,Catfish,Best Choice,n,US,
+5,"Clams, Mussels & Oysters",Best Choice,n,,
+6,Cod: Pacific,Best Choice,n,AK,
+7,Halibut: California,Best Choice,n,US hook and line,
+8,Lingcod:,Best Choice,n,Canada & US,
+9,Lobster: Spiny,Best Choice,n,Mexico,
+10,Prawn: Spot,Best Choice,n,AK,
+11,Rockfish,Best Choice,n,"CA, OR & WA",
+12,Sablefish/Black Cod,Best Choice,n,AK,
+13,Salmon,Best Choice,n,AK & New Zealand,
+14,Sanddab,Best Choice,n,"CA, OR & WA",
+15,Sardines: Pacific,Best Choice,n,Canada & US,
+16,Scallops,Best Choice,y,farmed,
+17,Seaweed,Best Choice,y,farmed,
+18,Shrimp,Best Choice,y,"AK wild, US farmed",
+19,Sole,Best Choice,n,"AK, CA, OR & WA",
+20,Tilapia,Best Choice,n,Ecuador & US,
+21,Trout: Rainbow,Best Choice,y,US farmed,
+22,Tuna: Albacore,Best Choice,n,"Pacific troll, pole and line",
+23,Tuna: Skipjack,Best Choice,n,"Pacific troll,pole and line",
+24,Branzino,Good Alternatives,y,Mediterranean farmed,
+25,Cod: Pacific,Good Alternatives,n,Canada & US trawl,
+26,Crab: Blue & King,Good Alternatives,n,US,
+27,Crab: Dungeness,Good Alternatives,n,,
+28,Crab: Pacific Rock,Good Alternatives,n,CA & OR,
+29,Halibut,Good Alternatives,n,US Pacific gillnet and trawl,
+30,Lobster,Good Alternatives,n,Bahamas & US,
+31,Mahi Mahi,Good Alternatives,n,Ecuador & US,
+32,Octopus,Good Alternatives,n,"Portugal & Spain pot and trap, US",
+33,Salmon,Good Alternatives,n,"Canada, CA, OR & WA wild",
+34,Scallops,Good Alternatives,n,wild,
+35,Shrimp,Good Alternatives,y,"Canada & US wild, Ecuador farmed",
+36,Snapper,Good Alternatives,n,US,
+37,Sole,Good Alternatives,n,British Columbia,
+38,Squid,Good Alternatives,n,Mexico & US,
+39,Swordfish,Good Alternatives,n,US,
+40,Tilapia,Good Alternatives,n,China & Taiwan,
+41,Tuna: Albacore,Good Alternatives,n,US longline,
+42,Tuna: Skipjack,Good Alternatives,n,"free school, imported troll, pole and line, and US longline",
+43,Tuna: Yellowfin,Good Alternatives,n,"free school, imported troll, pole and line, and HI longline",
+44,Basa/Pangasius/Swai,Avoid,n,,
+45,Cod: Pacific,Avoid,n,Japan & Russia,
+46,Crab: Red King,Avoid,n,Russia,
+47,Lobster: Spiny,Avoid,n,"Belize, Brazil, Honduras & Nicaragua",
+48,Mahi Mahi,Avoid,n,imported,
+49,Orange Roughy,Avoid,n,,
+50,Salmon: Atlantic,Avoid,y,farmed,
+51,Sardines: Atlantic,Avoid,n,Mediterranean,
+52,Sharks,Avoid,n,,
+53,Shrimp,Avoid,n,imported,
+54,Squid,Avoid,n,imported,
+55,Swordfish,Avoid,n,imported,
+56,Tuna: Albacore,Avoid,n,"except US troll, pole and line, and longline",
+57,Tuna: Bluefin,Avoid,n,,
+58,Tuna: Skipjack,Avoid,n,imported purse seine,
+59,Tuna: Yellowfin,Avoid,n,"except troll, pole and line, and HI longline",
