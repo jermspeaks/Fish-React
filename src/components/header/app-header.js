@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Router, {Link} from 'react-router-component';
+import Router, {Link} from 'react-router';
 
 
 export default class Header extends Component {
@@ -9,11 +9,11 @@ export default class Header extends Component {
           <nav className="navbar navbar-default">
             <div className="container-fluid">
               <div className="navbar-header">
-                <Link className="navbar-brand" href="/">Sustainable Fish</Link>
+                <Link className="navbar-brand" to="/">Sustainable Fish</Link>
               </div>
               <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav navbar-right">
-                  <li><Link className="navbar-brand" href="/about">About Us</Link></li>
+                  <li><Link className="navbar-brand" to="about">About Us</Link></li>
                 </ul>
               </div>
             </div>

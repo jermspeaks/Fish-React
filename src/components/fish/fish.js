@@ -1,5 +1,5 @@
 import React from 'react';
-import Router, {Link} from 'react-router-component';
+import Router, {Link} from 'react-router';
 import fishData from '../../../data/fish.json';
 
 export default class Fish extends React.Component {
@@ -12,7 +12,7 @@ export default class Fish extends React.Component {
 
   render() {
     var fishes = this.state.fishes.map( (fish, i) => {
-      var fishLink = '/view/' + encodeURIComponent(fish.fishName);
+      var fishLink = encodeURIComponent(fish.fishName);
 
       // Create Fish Class
       var fishClass = '';
@@ -27,7 +27,7 @@ export default class Fish extends React.Component {
 
       return (
         <div className={fishClass} key={i}>
-          <h3><Link href={fishLink}>{fish.fishName}</Link></h3>
+          <h3><Link to='fish' params={{fish: fishLink}}>{fish.fishName}</Link></h3>
           <p>Choice Type: {fish.choiceType}</p>
           <p>Notes: {fish.notes}</p>
         </div>
