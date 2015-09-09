@@ -1,12 +1,8 @@
 var express = require('express');
+
 var app = express();
-require('./router/main')(app);
-app.set('views', __dirname + '/views');
-app.set('view engine', 'ejs');
-app.engine('html', require('ejs').renderFile);
 
-var server = app.listen(3000, function() {
-  console.log('Listening on port 3000');
-});
+require('./config/express')(app);
+require('./config/routes')(app);
 
-module.exports = app;
+app.listen(app.get('port'));
