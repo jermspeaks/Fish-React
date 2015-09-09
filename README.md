@@ -1,6 +1,8 @@
 Fish App
 ========
 
+[ ![Codeship Status for jermspeaks/Fish-React](https://codeship.com/projects/c77e38b0-397a-0133-c979-3261c53cb856/status?branch=master)](https://codeship.com/projects/101614)
+
 This is a app to showcase sustainable and unsustainable fish to eat. Currently, this encompasses California, but the plan is to expand this to the rest of the United States. Currently, we are using Monterey Bay Aquarium's list of species to eat on the California list. There are three categories.
 
 1. Best Choice
