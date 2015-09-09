@@ -1,13 +1,14 @@
 var path = require('path');
 var NODE_MODULES_DIR = path.resolve(__dirname, 'node_modules');
+var webpack = require('webpack');
 
 var config = {
   entry: {
-    app: path.resolve(__dirname, './src/server'),
+    app: path.resolve(__dirname, './src/index'),
     vendors: ['react', 'react-router']
   },
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, './server/public/js'),
     filename: 'app.js'
   },
   module: {
@@ -18,7 +19,7 @@ var config = {
 		}, {
 			test: /\.js[x]?$/,
 			exclude: [NODE_MODULES_DIR],
-			loader: 'react-hot!babel',
+			loader: 'babel',
 			include: path.join(__dirname, 'src')
 		}]
 	},

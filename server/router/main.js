@@ -1,5 +1,5 @@
 var React = require('react');
-var App = require('./components/app');
+var App = require('../../src/components/app');
 var index = '<!DOCTYPE html><html><head></head><body>{{component}}</body></html>';
 
 app.get('/', function (req, res) {

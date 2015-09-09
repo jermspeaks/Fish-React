@@ -1,0 +1,19 @@
+{
+  "name": "fish",
+  "version": "1.0.0",
+  "description": "fish app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fish",
+    "sustainability"
+  ],
+  "author": "Jeremy Wong (jermspeaks@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
