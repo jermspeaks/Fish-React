@@ -62,6 +62,6 @@ The following is a tree of the entire build. It is a reference so I can talk abo
 
 All of my `WIP` tasks
 
-* Install React Router
-* Create Routes
-* Install Bootstrap OR figure out how to include the bourbon & neat sass libraries.
+* Isomorphic server-side rendering || App Deployment
+* Deploy app onto Digital Ocean Droplet
+* Include a yeoman generator to generate another module via [generator-generator](https://github.com/yeoman/generator-generator)
